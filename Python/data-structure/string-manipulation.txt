@@ -1,0 +1,17 @@
+##CASE
+upper()
+lower()
+capitalize()
+
+##INDICE
+variavel[0:3] #Pega as letras das posições de 0-2
+variavel[3:] #Pega da 3 em diante
+variavel.find("a") #Retorna o indice onde a letra aparece
+len(variavel) #Retorna o tamanho da string
+
+##FORMATAÇÃO
+variavel.replace('frase1', 'frase2') #Substitue na string
+variavel.strip() #Retorna os espaços em branco
+print(f"O F serve para retornar as variaǘeis em {chave}")
+
+

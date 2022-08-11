@@ -1,0 +1,29 @@
+###GERAL
+array[1] #Acessar o indice
+array.index('Valor') #Retorna o indice onde o valor esta armazenado
+
+###TABELAS
+tabela = ("Valor1", "valor2") #Criar uma tabela
+set(tabela) #Retorna valores únicos
+
+###ARRAYS
+array = ["Valor", "Valor2"]
+lista.append("Valor") #Adiciona um novo elemento a lista
+lista.remove("Valor") #Remove um item do array
+del(array) #Deleta uma lista
+
+###DICIONÁRIOS
+dicionario = {"Moises": 25, "Tepper": 26} #Cria um dicionário
+dicionario ["Cleber"] = 25 #Adiciona um novo valor
+dicionario["Valor"] #Retorna o valor da chave
+del.dicionario("Valor") #Apaga um objeto
+del.dicionario #Apaga a variavel
+dicionario.keys() #Retorna as chaves
+dicionario.values() #Retorna os valores
+dicionario1.update(dicionario2) #Concatena os valores de dois dicionarios
+
+
+###CONJUNTOS
+conjunto = {1,2,3} #Cria um conjunto
+conjunto3 = c1.intersection(c2) #Cria um conjunto com valores que se repetem em outros dois CONJUNTOS
+conjunto.difference(c2) #Mostra a diferença entre dois conjuntos

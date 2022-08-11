@@ -1,0 +1,2 @@
+def função(): #cria uma nova função
+help() #Abre a documentação da função, se tiver sido definido

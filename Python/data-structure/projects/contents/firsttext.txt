@@ -1,0 +1,3 @@
+Olá
+Esse é meu primeiro arquivo
+para manipulação de texto

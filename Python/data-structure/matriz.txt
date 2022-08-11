@@ -1,0 +1,11 @@
+###BIBLIOTECAS
+import numpy as np #Biliotca de matrizes
+
+###
+matriz = np.array ([[2, 3, 1],
+                   [4, 5, 7]])
+
+###INTERAÇÃO
+matriz.shapre #Retorna o formato da matriz
+matriz[0] #Acessa o valor do indice #linha
+matriz[0][1] #Acessa o valor do indice da #linha 1 #coluna 2

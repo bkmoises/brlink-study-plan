@@ -1,0 +1,3 @@
+[submodule "git-github"]
+	path = git-github
+	url = https://github.com/bkmoises/brlink-study-plan

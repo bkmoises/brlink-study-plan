@@ -1,0 +1,5 @@
+% #Resto da divisão
+3**5 #Três elevado à 5
+
+###FORMATAÇÃO
+roud(valor, 5) #Arredonda o valor em 5 casas decimais
